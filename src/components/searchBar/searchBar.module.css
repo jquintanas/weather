@@ -1,0 +1,14 @@
+.container {
+  background-color: var(--container-glass-color, #806e7a);
+  color           : white;
+  width           : 100%;
+  height          : 40px;
+  border-radius   : 20px;
+  border          : 0;
+  box-shadow      : 0 0px 3px 1px rgba(31, 38, 135, 0.37);
+  padding-left    : 3%;
+}
+
+.container::placeholder {
+  color: white;
+}

@@ -1,0 +1,6 @@
+.image {
+  margin-left     : auto;
+  background-color: var(--container-glass-color, #806e7a);
+  border-radius   : 50%;
+  box-shadow      : 0 0px 3px 1px rgba(31, 38, 135, 0.37);
+}
